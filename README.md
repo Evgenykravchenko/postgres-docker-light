@@ -1,5 +1,3 @@
-Вот полный `README.md` для твоего проекта:  
-
 ---  
 
 # PostgreSQL Docker Light  
